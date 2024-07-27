@@ -1,0 +1,8 @@
+{
+  "name": "json",
+  "description": "JSON for Modern C++",
+  "version": "v3.11.3",
+  "author": "nlohmann",
+  "repository": "https://github.com/nlohmann/json.git",
+  "dependencies": []
+}
