@@ -1,0 +1,8 @@
+{
+  "name": "maine-coon",
+  "description": "Ligth weight crossplatform application framework.",
+  "version": "3.2.0",
+  "author": "tabdroid-1",
+  "repository": "https://github.com/tabdroid-1/MaineCoon.git",
+  "dependencies": []
+}
