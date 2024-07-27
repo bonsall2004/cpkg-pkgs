@@ -1,0 +1,8 @@
+{
+  "name": "cpkg",
+  "description": "A C++ package manager",
+  "version": "0.0.2",
+  "author": "bonsall2004",
+  "repository": "https://github.com/bonsall2004/cpkg.git",
+  "dependencies": []
+}
