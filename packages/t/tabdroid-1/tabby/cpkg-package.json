@@ -1,6 +1,6 @@
 {
   "name": "tabby",
-  "description": "Simple ECS oriented framework-like game engine",
+  "description": "Simple ECS oriented framework-like game engine.",
   "version": "0.0.1",
   "author": "tabdroid-1",
   "repository": "https://github.com/tabdroid-1/TabbyEngine.git",
