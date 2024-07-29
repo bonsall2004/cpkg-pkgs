@@ -1,0 +1,8 @@
+{
+  "name": "sqlite",
+  "description": "Small, fast and self contained SQL Database engine.",
+  "version": "latest",
+  "author": "bonsall2004",
+  "repository": "https://github.com/bonsall2004/sqlite.git",
+  "dependencies": []
+}
