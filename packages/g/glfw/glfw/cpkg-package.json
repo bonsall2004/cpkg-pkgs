@@ -1,0 +1,10 @@
+{
+  "name": "glfw",
+  "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+  "version": "latest",
+  "author": "ocornut",
+  "repository": "https://github.com/glfw/glfw.git",
+  "dependencies": [],
+  "build-targets": ["glfw3"],
+  "include-directories": ["./include"]
+}

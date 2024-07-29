@@ -1,0 +1,10 @@
+{
+  "name": "imgui",
+  "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+  "version": "latest",
+  "author": "ocornut",
+  "repository": "https://github.com/ocornut/imgui.git",
+  "dependencies": [],
+  "build-targets": [],
+  "include-directories": []
+}
