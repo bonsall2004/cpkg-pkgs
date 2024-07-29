@@ -1,7 +1,7 @@
 {
   "name": "thread-master",
   "description": "A simple C++ threading library",
-  "version": "1.0.0",
+  "version": "latest",
   "author": "bonsall2004",
   "repository": "https://github.com/bonsall2004/thread-master.git",
   "dependencies": []
